@@ -1,1 +1,5 @@
-
+dir --> lists all directories in the folder
+cd <folder> --> changes the folder
+cd ..    --> one directory up
+cls --> clear screen and delete all commands on screen
+mkdir <foldername> --> creates a new folder
